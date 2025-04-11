@@ -197,7 +197,7 @@ section { padding: 5rem 0; transition: background-color var(--transition-speed) 
 /* --- Hero Section --- */
 .hero-section {
     text-align: center;
-    padding: 5rem 0;
+    padding: 10rem 0;
     background-color: var(--surface-2);
     border-bottom: 1px solid var(--border);
     transition: background-color var(--transition-speed) ease, border-color var(--transition-speed) ease;
